@@ -11,15 +11,12 @@
 
 URL - https://wheredidipark.nishan.dev/
 
-
 https://user-images.githubusercontent.com/23293248/161559092-b196a923-76c2-4a1f-95c5-b40544d3bc7d.mp4
-
 
 ## Notes
 
 - Make sure you've given location access to safari on iOS.
 
  <img height="400" src="/location-safari.jpeg" alt="safari location setting">
-
 
 - Location data is stored locally. It is not sent out of the phone 😌
